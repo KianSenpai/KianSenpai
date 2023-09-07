@@ -27,3 +27,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KianSenpai/KianSenpai/output/snake.svg" alt="Snake animation" />
+
+###
