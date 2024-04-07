@@ -4,6 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,redux,ts,js,vite,tailwind,html,css,figma,github,gitlab,webstorm)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KianSenpai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kiaaawn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
