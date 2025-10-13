@@ -16,8 +16,8 @@
 
 ### About Me
 
-- 🚀 Passionate about building intuitive and dynamic user interfaces.
-- 💼 Currently working as a Senior Front-End Engineer.
+- 🚀 Passionate about building intuitive and dynamic applications.
+- 💼 Currently working as a Senior Software Engineer.
 - 📚 Constantly learning and improving my skills in modern web technologies.
 
 ### Get in Touch
