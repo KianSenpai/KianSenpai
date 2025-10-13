@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name is Kian and I'm a Senior Front-End Engineer!</h2>
+<h2 align="center">Hi, my name is Kian and I'm a Senior Software Engineer!</h2>
 
 <div align="center">
   <img src="https://wakatime.com/badge/user/75f08dec-ea57-420a-9de1-a7da44f351bd.svg" alt="Wakatime Badge"/>
