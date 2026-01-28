@@ -6,13 +6,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,redux,ts,js,vite,tailwind,html,css,figma,github,gitlab" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,redux,angular,ts,js,vite,tailwind,html,css,figma,github,gitlab" alt="My Skills"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianSenpai&layout=compact" alt="Top Languages"/>
-</div>
 
 ### About Me
 
